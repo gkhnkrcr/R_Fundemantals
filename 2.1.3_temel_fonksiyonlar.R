@@ -14,6 +14,8 @@ data() #r'daki veri setleri
 options(digits = 10) #virgulden sonraki basamak ayari
 print(3.1111111111111111)
 
+## commit test
+
 
 
 
